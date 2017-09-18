@@ -13,5 +13,5 @@ Here are the project's lab notebooks.
 
 * [A preliminary look at sensor data](InitialTemperatureValues.ipynb) after the first round of software
 * [The foam core experiment](FoamCoreExperiment.ipynb) for getting more consistent sensor values
-
+* [Moving the sensor away from the ESP8266](MovingTheSensor.ipynb) to see how much heat from the ESP8266 is throwing measurements off
 
